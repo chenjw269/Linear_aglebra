@@ -17,7 +17,7 @@ A 原来的 (i,j)-entry，transpose 后变成 (j,i)-entry
 ###  转置的特性
   
   
-- <img src="https://latex.codecogs.com/gif.latex?(A^{T})^{T}%20=%20A"/>
+- <img src="https://latex.codecogs.com/gif.latex?(%20A^{T}%20)^{T}%20=%20A"/>
 - <img src="https://latex.codecogs.com/gif.latex?(sA)^{T}%20=%20sA^{T}"/>
 - <img src="https://latex.codecogs.com/gif.latex?(A%20+%20B)^{T}%20=%20A^{T}%20+%20B^{T}"/>
 - 转置也是线性系统

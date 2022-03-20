@@ -1,9 +1,9 @@
   
   
-- [向量 vector](#向量-vector )
-  - [向量的概念](#向量的概念 )
-  - [向量的特性](#向量的特性 )
-  - [线性系统的本质](#线性系统的本质 )
+- [向量 vector](#向量-vector)
+  - [向量的概念](#向量的概念)
+  - [向量的特性](#向量的特性)
+  - [线性系统的本质](#线性系统的本质)
   
 [返回目录](Readme.md )
   
@@ -38,9 +38,9 @@
 Linear System = System of Linear Equations，也就是多元一次联立方程式
 m 个 等式 equations，n 个 变量 variables，m × n 个系数 coefficient
   
-- System of Linear Equations → Linear System
+- System of Linear Equations → Linear System  
   将 n 个变量视为输入，m 个常数项视为输出，满足线性系统的两个特征
-- Linear System → System of Linear Equations
-  线性系统输出一定可以写成输入的 weight sum
+- Linear System → System of Linear Equations  
+  线性系统输出一定可以写成输入的 weight sum  
   证明过程： standard (unit) vector  e1 [1,0,0,...], e2 [0,1,0,...]
   
