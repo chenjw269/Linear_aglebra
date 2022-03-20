@@ -31,11 +31,11 @@
 ###  特殊的矩阵
   
   
-方阵 square matrix：m = n
-方阵的对角线 diagonal（仅方阵有 diagonal）
-上三角矩阵 upper triangular matrix （diagonal 以下为 0）
-下三角矩阵 lower triangulat matrix （diagonal 以上为 0）
-对角线矩阵 diagonal matrix （diagonal 以外为 0）
-单位矩阵 identity matrix （diagonal 全为 1 且以外为 0）<img src="https://latex.codecogs.com/gif.latex?I_{n}"/>
-零矩阵 zero matrix <img src="https://latex.codecogs.com/gif.latex?O_{m&#x5C;times%20n}"/>
+方阵 square matrix：m = n  
+方阵的对角线 diagonal（仅方阵有 diagonal）  
+上三角矩阵 upper triangular matrix （diagonal 以下为 0）  
+下三角矩阵 lower triangulat matrix （diagonal 以上为 0）  
+对角线矩阵 diagonal matrix （diagonal 以外为 0）  
+单位矩阵 identity matrix （diagonal 全为 1 且以外为 0）<img src="https://latex.codecogs.com/gif.latex?I_{n}"/>  
+零矩阵 zero matrix <img src="https://latex.codecogs.com/gif.latex?O_{m&#x5C;times%20n}"/>  
   
