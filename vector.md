@@ -12,12 +12,12 @@
 ###  向量的概念
   
   
-粗体字母表示一组数字 __V__
-向量中的每个数字就是向量的一个元素 component
-向量中的元素可以用下标表示 <img src="https://latex.codecogs.com/gif.latex?V_{i}"/>
-低于四维的向量可以绘图表示出来
-向量可以组成集合，集合中可以有无穷多个向量 <img src="https://latex.codecogs.com/gif.latex?R^{n}"/>
-向量的相加、数乘
+粗体字母表示一组数字 __V__  
+向量中的每个数字就是向量的一个元素 component  
+向量中的元素可以用下标表示 <img src="https://latex.codecogs.com/gif.latex?V_{i}"/>  
+低于四维的向量可以绘图表示出来  
+向量可以组成集合，集合中可以有无穷多个向量   <img src="https://latex.codecogs.com/gif.latex?R^{n}"/>
+向量的相加、数乘  
   
 ###  向量的特性
   
