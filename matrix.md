@@ -1,9 +1,9 @@
   
   
-- [矩阵 matrix](#矩阵-matrix )
-  - [矩阵的概念](#矩阵的概念 )
-  - [矩阵的特性](#矩阵的特性 )
-  - [特殊的矩阵](#特殊的矩阵 )
+- [矩阵 matrix](#矩阵-matrix)
+  - [矩阵的概念](#矩阵的概念)
+  - [矩阵的特性](#矩阵的特性)
+  - [特殊的矩阵](#特殊的矩阵)
   
 [返回目录](Readme.md )
   
@@ -12,12 +12,12 @@
 ###  矩阵的概念
   
   
-大写字母表示矩阵 A
-矩阵有 row 和 column，矩阵的形状为 m by n / m × n
-所有 m × n 矩阵的集合 <img src="https://latex.codecogs.com/gif.latex?M_{m&#x5C;times%20n}"/>
-矩阵中每个元素 component 的位置要用两个 index 来描述
+大写字母表示矩阵 A  
+矩阵有 row 和 column，矩阵的形状为 m by n / m × n  
+所有 m × n 矩阵的集合 <img src="https://latex.codecogs.com/gif.latex?M_{m&#x5C;times%20n}"/>  
+矩阵中每个元素 component 的位置要用两个 index 来描述  
 向量也是一种矩阵，矩阵也可以表示为向量的集合
-相同形状的矩阵可以相加减
+相同形状的矩阵可以相加减  
   
 ###  矩阵的特性
   

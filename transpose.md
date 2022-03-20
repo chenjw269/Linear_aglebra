@@ -1,8 +1,8 @@
   
   
-- [转置 transpose](#转置-transpose )
-  - [转置的概念](#转置的概念 )
-  - [转置的特性](#转置的特性 )
+- [转置 transpose](#转置-transpose)
+  - [转置的概念](#转置的概念)
+  - [转置的特性](#转置的特性)
   
 [返回目录](Readme.md )
   
@@ -11,7 +11,7 @@
 ###  转置的概念
   
   
-A 原本是 m × n，transpose 后变成 n × m
+A 原本是 m × n，transpose 后变成 n × m  
 A 原来的 (i,j)-entry，transpose 后变成 (j,i)-entry
   
 ###  转置的特性
