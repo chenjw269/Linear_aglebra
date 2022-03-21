@@ -19,12 +19,12 @@
   <img src="https://latex.codecogs.com/gif.latex?component%20%20=%20v_{i},%20i%20&#x5C;in%20[1,n]"/>   
   
 - 向量中的元素可以用下标表示  
-  <img src="https://latex.codecogs.com/gif.latex?v_{i}=&#x5C;pmb{V}%20中的第i个元素"/>  
+  <img src="https://latex.codecogs.com/gif.latex?v_{i}=&#x5C;pmb{V}"/> 中的第 i 个元素  
   
 - 低于四维的向量可以绘图表示出来  
   
 - 向量可以组成集合，集合中可以有无穷多个向量  
-  <img src="https://latex.codecogs.com/gif.latex?R^{n}%20表示由%20n%20个向量组成的所有集合"/>  
+  <img src="https://latex.codecogs.com/gif.latex?R^{n}"/> 表示由 n 个向量组成的所有集合  
   
 - 向量的相加  
   <img src="https://latex.codecogs.com/gif.latex?[v_{1},%20v_{2},%20&#x5C;cdots%20v_{n}]+[w_{1},%20w_{2},%20&#x5C;cdots%20w_{n}]%20=%20[v_{1}+w_{1},%20v_{2}+w_{2},%20&#x5C;cdots%20v_{n}+w_{n}]"/>  
@@ -38,8 +38,8 @@
   
 - <img src="https://latex.codecogs.com/gif.latex?&#x5C;pmb{U}+&#x5C;pmb{V}=&#x5C;pmb{V}+&#x5C;pmb{U}"/>  
 - <img src="https://latex.codecogs.com/gif.latex?(&#x5C;pmb{U}%20+%20&#x5C;pmb{V})%20+%20&#x5C;pmb{W}%20=&#x5C;pmb{U}%20+%20(&#x5C;pmb{V}%20+%20&#x5C;pmb{W})"/>  
-- <img src="https://latex.codecogs.com/gif.latex?R^{n}%20中有零向量%20&#x5C;pmb{0}%20使得%20&#x5C;pmb{0}%20+%20&#x5C;pmb{U}%20=%20&#x5C;pmb{U}"/>  
-- <img src="https://latex.codecogs.com/gif.latex?R^{n}%20中有向量%20&#x5C;pmb{U&#x27;}%20使得%20&#x5C;pmb{U&#x27;}%20+%20&#x5C;pmb{U}%20=%20&#x5C;pmb{0}"/>  
+- <img src="https://latex.codecogs.com/gif.latex?R^{n}"/> 中有零向量 <img src="https://latex.codecogs.com/gif.latex?&#x5C;pmb{0}"/> 使得 <img src="https://latex.codecogs.com/gif.latex?&#x5C;pmb{0}%20+%20&#x5C;pmb{U}%20=%20&#x5C;pmb{U}"/>  
+- <img src="https://latex.codecogs.com/gif.latex?R^{n}"/> 中有向量 <img src="https://latex.codecogs.com/gif.latex?&#x5C;pmb{U&#x27;}"/> 使得 <img src="https://latex.codecogs.com/gif.latex?&#x5C;pmb{U&#x27;}%20+%20&#x5C;pmb{U}%20=%20&#x5C;pmb{0}"/>  
 - <img src="https://latex.codecogs.com/gif.latex?1%20&#x5C;times%20&#x5C;pmb{U}%20=%20&#x5C;pmb{U}"/>  
 - <img src="https://latex.codecogs.com/gif.latex?(ab)%20&#x5C;pmb{U}%20=%20a(b%20&#x5C;pmb{U})"/>  
 - <img src="https://latex.codecogs.com/gif.latex?a(&#x5C;pmb{U}%20+%20&#x5C;pmb{V})%20=%20a%20&#x5C;pmb{U}%20+%20a%20&#x5C;pmb{V}"/>  
