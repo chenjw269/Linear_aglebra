@@ -15,11 +15,11 @@
 - 大写字母表示矩阵  
     <img src="https://latex.codecogs.com/gif.latex?A%20=%20&#x5C;begin{bmatrix}a_{11},%20a_{12}&#x5C;cdots%20a_{1n}%20&#x5C;&#x5C;%20a_{21},%20a_{22}%20&#x5C;cdots%20a_{2n}%20&#x5C;&#x5C;%20&#x5C;vdots%20&#x5C;&#x5C;%20a_{n1},%20a_{n2}%20&#x5C;cdots%20a_{nn}%20&#x5C;end{bmatrix}"/>  
   
-- 矩阵有 row 和 column，矩阵的形状为 m by n / m × n
-    <img src="https://latex.codecogs.com/gif.latex?M_{m&#x5C;times%20n}%20表示所有%20m%20×%20n%20矩阵的集合"/>  
+- 矩阵有 row 和 column，矩阵的形状为 m by n / m × n  
+    <img src="https://latex.codecogs.com/gif.latex?M_{m&#x5C;times%20n}"/> 表示所有 m × n 矩阵的集合  
   
 - 矩阵中每个元素 component 的位置要用两个 index 来描述  
-    <img src="https://latex.codecogs.com/gif.latex?A_{m,n}%20=%20A%20中第%20m%20行%20n%20列的元素"/>  
+    <img src="https://latex.codecogs.com/gif.latex?A_{m,n}"/> = A 中第 m 行 n 列的元素  
   
 - 向量也是一种矩阵，矩阵也可以表示为向量的集合  
   

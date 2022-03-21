@@ -19,7 +19,7 @@
   <img src="https://latex.codecogs.com/gif.latex?component%20%20=%20v_{i},%20i%20&#x5C;in%20[1,n]"/>   
   
 - 向量中的元素可以用下标表示  
-  <img src="https://latex.codecogs.com/gif.latex?v_{i}%20=&#x5C;pmb{V}%20中的第%20i%20个元素"/>  
+  <img src="https://latex.codecogs.com/gif.latex?v_{i}=&#x5C;pmb{V}%20中的第i个元素"/>  
   
 - 低于四维的向量可以绘图表示出来  
   
